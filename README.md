@@ -6,7 +6,7 @@
 ![Methodology](https://img.shields.io/badge/Methodology-Agile%2FScrum-purple)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Project-yellow)
 
-> **An industry-oriented manual QA portfolio project demonstrating end-to-end testing of an e-commerce web application using risk-based test planning, test design techniques, defect management, regression testing, retesting, RTM, and QA reporting.**
+> **An industry-oriented manual QA portfolio project demonstrating end-to-end testing of an e-commerce web application using risk-based test planning, test design techniques, defect management, regression testing, retesting and  RTM.**
 
 ---
 
